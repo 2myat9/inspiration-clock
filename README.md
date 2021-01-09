@@ -6,6 +6,8 @@ This is Project 2 of the Javascript 30-day Challenge by [Wes Bos](https://wesbos
 
 Inspiration Clock is a simple clock written in vanilla HTML, CSS, and JS. I added a feature that generates a random inspirational quote below the clock every 1 minute.
 
+Preview: https://inspiration-clock.netlify.app/
+
 ### What I learned from this project
 
 - **Box-shadow**: I learned about the `box-shadow` CSS property which was really useful in making the clock frame and the clock hands look realistic and 3D.
