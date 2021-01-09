@@ -1,5 +1,7 @@
 # Inspiration Clock
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ebcd0729-0ebd-4883-85dd-71bd49073959/deploy-status)](https://app.netlify.com/sites/boring-dubinsky-a902f0/deploys)
+
 This is Project 2 of the Javascript 30-day Challenge by [Wes Bos](https://wesbos.com/).
 
 Inspiration Clock is a simple clock written in vanilla HTML, CSS, and JS. I added a feature that generates a random inspirational quote below the clock every 1 minute.
